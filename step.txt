@@ -1,0 +1,11 @@
+nodejs download
+folder banaka vs code ma openkrna ha
+terminal open krna ha shortcut ctrl+`
+
+npm install tailwindcss @tailwindcss/cli  ya command chalado
+src > input.css ki file bnani ha (@import "tailwindcss";)
+
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch (ya wali command khud output.css banadaigi)
+
+tailwind css ki extension download krni ha (Tailwind CSS IntelliSense) for suggestions
+index.html ka undar normal structure or link krna ha ./src/output.css
