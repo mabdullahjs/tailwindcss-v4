@@ -1,6 +1,7 @@
 nodejs download
 folder banaka vs code ma openkrna ha
 terminal open krna ha shortcut ctrl+`
+npm init -y
 
 npm install tailwindcss @tailwindcss/cli  ya command chalado
 src > input.css ki file bnani ha (@import "tailwindcss";)
